@@ -1,0 +1,16 @@
+{
+  "name": "sportyslipbot",
+  "version": "1.0.0",
+  "description": "SportySlipBot is your trusted companion for converting SportyBet booking codes into neatly formatted bet slips on Telegram. Say goodbye to navigating the website to find your code—use our command to instantly convert it into an easy-to-read text format. Access all bet details and odds effortlessly, enhancing your sports betting experience. Enjoy quick conversions and stay ahead with SportySlipBot! 📊🏆",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "node-telegram-bot-api": "^0.63.0"
+  }
+}
